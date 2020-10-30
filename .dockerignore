@@ -1,0 +1,9 @@
+**/node_modules
+**/.github
+**/cypress
+**/k8s
+**/.deployment
+**/manifests
+**/.gitignore
+**/LICENSE
+**/README.md
